@@ -1,1 +1,1 @@
-console.log("Hello World!");
+import './ts/1. lodash.get '
